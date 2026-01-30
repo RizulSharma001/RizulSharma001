@@ -1,12 +1,13 @@
-👋 Hi, I’m @RizulSharma.
-👀 I’m interested in sports, especially football.
-🌱 I’m currently learning about Git/GitHub and repositories.
-💞️ I’m open to collaboration on exciting projects!
-📫 You can reach me at [rizulsharma1306@gmail.com].
-😄 Pronouns: He/Him.
-- ⚡ Fun fact: I once convinced my friends that I was a retired professional state-level football player!
+👋 Hi, I’m Rizul Sharma
 
-<!---
-RizulSharma001/RizulSharma001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Engineering student with a strong interest in full-stack development and backend systems.  
+💻 Currently building projects using Java, JavaScript, React, Node.js, and REST APIs.  
+🚀 Actively learning and improving my skills in Git/GitHub, system design basics, and scalable web applications.  
+
+🤝 Open to collaborating on meaningful projects, hackathons, and learning-focused teams.  
+
+📫 Reach me at: rizulsharma1306@gmail.com  
+
+😄 Pronouns: He/Him  
+
+⚡ Fun fact: I once convinced my friends that I was a retired state-level football player — confidence really sells 😄
